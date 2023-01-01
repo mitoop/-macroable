@@ -1,0 +1,3 @@
+# Macroable
+
+Fork Laravel Macroable
